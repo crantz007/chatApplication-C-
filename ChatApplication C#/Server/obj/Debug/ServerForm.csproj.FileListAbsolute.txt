@@ -1,0 +1,5 @@
+C:\Users\crantz\source\Server\obj\Debug\ServerForm.csproj.AssemblyReference.cache
+C:\Users\crantz\source\Server\obj\Debug\ServerForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\crantz\source\Server\obj\Debug\Server.Server.resources
+C:\Users\crantz\source\Server\obj\Debug\ServerForm.csproj.GenerateResource.cache
+C:\Users\crantz\source\Server\obj\Debug\ServerForm.csproj.CoreCompileInputs.cache
